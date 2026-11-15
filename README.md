@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Vitaliy
 
-<!--
-**kokush-v/kokush-v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Full-Stack Engineer building LLM & RAG systems, backends and web/mobile apps.
 
-Here are some ideas to get you started:
+## What I work with
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **LLM & RAG:** LangChain, LangGraph, Amazon Bedrock (Claude), embeddings, vector search
+- **Backend:** Python/FastAPI, Node.js (NestJS), PostgreSQL, Redis, Celery/RabbitMQ, EventBridge
+- **Web & mobile:** React, Next.js, React Native (Expo), TypeScript
+- **Cloud:** AWS (Lambda, API Gateway, RDS, S3), AWS CDK, Docker
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/vitalik-lohoida)
