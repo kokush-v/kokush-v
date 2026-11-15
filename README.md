@@ -24,6 +24,12 @@ I build LLM-powered products end to end: RAG pipelines, backends, web and mobile
 <img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,nestjs,ts,react,nextjs,aws,postgres,redis,rabbitmq,docker,git" alt="Tech stack" />
 </p>
 
+## Featured projects
+
+- **[MarketPulse](https://github.com/kokush-v/marketpulse):** crypto and stock dashboard with watchlists, price alerts, a Telegram bot and an AI assistant (FastAPI, Next.js, Rails; built spec-first with OpenSpec)
+- **[BusLine](https://github.com/kokush-v/busline):** ticketing and management platform for city bus networks (FastAPI, Next.js, AWS Cognito, S3, SES, Lambda)
+- **[Coffee Shop](https://github.com/kokush-v/coffee-shop):** online coffee shop with real-time order tracking over WebSockets (Django Channels, Next.js)
+
 ## Contact
 
 <p>
