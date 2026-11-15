@@ -1,14 +1,33 @@
-# Hi, I'm Vitaliy
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Vitaliy%20Lohoida&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=AI%20Full-Stack%20Engineer&descSize=20&descAlignY=60" width="100%" alt="header" />
 
-AI Full-Stack Engineer building LLM & RAG systems, backends and web/mobile apps.
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=36BCF7&center=true&vCenter=true&width=640&lines=LLM+%26+RAG+systems;Python+%2F+FastAPI+backends;React%2C+Next.js+%26+React+Native;AWS+%7C+CDK+%7C+Docker" alt="Typing SVG" />
+</p>
 
-## What I work with
+<p align="center">
+I build LLM-powered products end to end: RAG pipelines, backends, web and mobile apps, and the cloud infrastructure behind them.
+</p>
 
-- **LLM & RAG:** LangChain, LangGraph, Amazon Bedrock (Claude), embeddings, vector search
-- **Backend:** Python/FastAPI, Node.js (NestJS), PostgreSQL, Redis, Celery/RabbitMQ, EventBridge
-- **Web & mobile:** React, Next.js, React Native (Expo), TypeScript
-- **Cloud:** AWS (Lambda, API Gateway, RDS, S3), AWS CDK, Docker
+## AI & LLM
+
+<p>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangGraph" />
+<img src="https://img.shields.io/badge/Amazon%20Bedrock-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Amazon Bedrock" />
+<img src="https://img.shields.io/badge/RAG-0A66C2?style=for-the-badge" alt="RAG" />
+<img src="https://img.shields.io/badge/ElevenLabs-000000?style=for-the-badge&logo=elevenlabs&logoColor=white" alt="ElevenLabs" />
+</p>
+
+## Stack
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,nestjs,ts,react,nextjs,aws,postgres,redis,rabbitmq,docker,git" alt="Tech stack" />
+</p>
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/vitalik-lohoida)
+<p>
+<a href="https://www.linkedin.com/in/vitalik-lohoida"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=100&section=footer" width="100%" alt="footer" />
