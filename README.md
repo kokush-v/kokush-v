@@ -29,6 +29,7 @@ I build LLM-powered products end to end: RAG pipelines, backends, web and mobile
 - **[MarketPulse](https://github.com/kokush-v/marketpulse):** crypto and stock dashboard with watchlists, price alerts, a Telegram bot and an AI assistant (FastAPI, Next.js, Rails; built spec-first with OpenSpec)
 - **[BusLine](https://github.com/kokush-v/busline):** ticketing and management platform for city bus networks (FastAPI, Next.js, AWS Cognito, S3, SES, Lambda)
 - **[Coffee Shop](https://github.com/kokush-v/coffee-shop):** online coffee shop with real-time order tracking over WebSockets (Django Channels, Next.js)
+- **[LidAwake](https://github.com/kokush-v/lidawake):** open-source macOS menu-bar app that keeps a Mac running with the lid closed, so long Claude Code sessions can continue from a phone (Swift, SwiftUI)
 
 ## Contact
 
